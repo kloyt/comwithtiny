@@ -8,7 +8,7 @@ h2 {font-size: 18px; font-weight:bold; color:#133b5e; padding:4px; margin-bottom
 #coments  .title .left{float:left; padding:5px; width:500px;}
 #coments .addcoment {position:relative; top:-15px; background: #EEE; border:5px solid #93afbc; display:none;}
 #coments .addcoment img:hover{cursor:pointer;}
-#coments  textarea{ width:535px; font-size:14px; height: 180px; margin:10px; overflow:hidden; background:#FFF; border:1px solid #DDD;}
+#coments   .text{ width:535px; font-size:14px; height: 180px; margin:10px; overflow:hidden; background:#FFF; border:1px solid #DDD;}
 #coments  input[type="text"]{padding-left:10px; width:525px; height:25px; font-size:15px; line-height: 1.8em; margin:10px 5px 0px 10px; border:1px solid #DDD;}
 #coments  .addcoment span{position:relative; top:-10px; margin-right:180px; left:180px; font-size:20px; color:#292;}
 #coments  #statusbox{padding-left:10px; line-height:55px; color:#888; font-size:18px; height:50px;}

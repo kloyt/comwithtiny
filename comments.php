@@ -5,7 +5,9 @@
 <script type="text/javascript">
 tinyMCE.init({
     mode : "textareas",
-    theme : "simple"
+    theme : "simple",
+    width : "50", 
+	height : "100",
  });
 </script>
 
