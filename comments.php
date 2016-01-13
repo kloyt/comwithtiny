@@ -1,5 +1,14 @@
 <meta charset = "UTF-8">
-<script Language="JavaScript" src="js_comments.js"> </script>
+<script type="text/javascript" src="js_comments.js"> </script>
+<script type="text/javascript" src="tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
+<!--Инициализируем Тини-->
+<script type="text/javascript">
+tinyMCE.init({
+    mode : "textareas",
+    theme : "simple"
+ });
+</script>
+
 <center>
 <div id="coments">
 <div class="title">
